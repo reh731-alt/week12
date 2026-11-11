@@ -45,7 +45,7 @@ PLAYER_START = (-5.7, -5.5)
 SAFE_HOUSE_X = -6.1
 SAFE_HOUSE_Y = 4.7
 SAFE_HOUSE_RADIUS = 1.15          # Distance from center to activate the zone (meters).
-SAFE_HOUSE_SECONDS = 6.0          # Total simulated seconds of protection per game.
+SAFE_HOUSE_SECONDS = 10.0          # Total simulated seconds of protection per game.
 
 # These settings affect PERFORMANCE and PLAYBACK, not just wheel speeds.
 PHYSICS_HZ = 120                 # Try 120 or 240. More Hz = more physics work.
